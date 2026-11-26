@@ -1,7 +1,7 @@
-:HL["/movira-care-preview/_next/static/chunks/20d639_i5ezac.css","style"]
+:HL["/movira-care-preview/_next/static/chunks/1y-qg39j5iadh.css","style"]
 :HL["/movira-care-preview/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/movira-care-preview/brand/movira-care-logo-light.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"resources","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(frontend)","h":48,"c":"$Q2"}]]
-0:{"b":"SfCiMtkW2V7pdfy1wC6jD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Djxm4AoRRmKKujRkKTTP-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
