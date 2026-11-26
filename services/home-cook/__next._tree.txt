@@ -1,8 +1,9 @@
-:HL["/movira-care-preview/_next/static/chunks/1y-qg39j5iadh.css","style"]
+:HL["/movira-care-preview/_next/static/chunks/1n9nkjke3t9sr.css","style"]
+:HL["/movira-care-preview/_next/static/chunks/37gdskgz668ou.css","style"]
 :HL["/movira-care-preview/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/movira-care-preview/brand/movira-care-logo-light.svg","image"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"home-cook","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"services","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(frontend)","h":48,"c":"$Q2"}]]
-0:{"b":"Djxm4AoRRmKKujRkKTTP-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ZazDG_RfKhBSuD15JRMiq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
