@@ -1,9 +1,9 @@
 :HL["/movira-care-preview/_next/static/chunks/1n9nkjke3t9sr.css","style"]
-:HL["/movira-care-preview/_next/static/chunks/25hs-31buj5pw.css","style"]
+:HL["/movira-care-preview/_next/static/chunks/34-2fkwi6e4i5.css","style"]
 :HL["/movira-care-preview/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/movira-care-preview/brand/movira-care-logo-light.svg","image"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"checklist-before-a-caretaker-or-house-help-starts","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"resources","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(frontend)","h":48,"c":"$Q2"}]]
-0:{"b":"CU7JXpXCImBqj0spUhb3_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"XFjcT0ZHln2aUXNZ1C9m0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
